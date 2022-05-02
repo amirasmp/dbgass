@@ -1,14 +1,4 @@
 {
-  
-  "M1": [
-    {
-      "id": 1,
-      "KM":0
-      "h":0
-    }
-  ],
-  "User": {
-    "username": "test"
-    "Password":"test"
-  }
-
+  "id": 1,
+  "title": "hello"
+}
